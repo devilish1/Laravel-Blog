@@ -1,0 +1,12 @@
+#catgame-cat{
+	display: none;
+	font-size: 400%
+}
+
+.catgame-admin{
+	display: none;
+}
+
+.catgame-admin #catgame-admin-info{
+	display: none;
+}
